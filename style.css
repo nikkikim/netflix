@@ -112,7 +112,6 @@ body {
 .textContent {
     color: white;
     font-family: 'Dosis-ExtraLight', Aerial, sans-serif;
-    text-align: left;
     display: block;
     max-height: 100%;
     max-width: 100%;
